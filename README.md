@@ -7,7 +7,7 @@ gallery and music player can find it.
 ## Installing it
 
 1. On your Android phone, open the
-   [latest build](https://github.com/Akrishna87/Akrishna87/releases/tag/torrent-latest)
+   [latest build](https://github.com/Akrishna87/mytorrents/releases/tag/torrent-latest)
    and tap **MyTorrents.apk** to download it.
 2. Open the downloaded file and allow installing from your browser when asked,
    then tap **Install** (Play Protect may ask you to confirm, because it isn't
